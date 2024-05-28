@@ -1,6 +1,6 @@
 ## Hi, I'm Nhat 👋 
-I'm currently iOS developer at [VNG](https://www.vng.com.vn). 
+I'm currently iOS developer at [Setel](https://www.setel.com). 
 
 I have passion for Swift. At the moment, I am living in Ho Chi Minh city.
 
-You can reach me on [Twitter](https://twitter.com/nhatjle6).
+You can reach me on [Linkedin](https://www.linkedin.com/in/nhat-lee-032497a3/) or [Twitter](https://twitter.com/nhatjle6).

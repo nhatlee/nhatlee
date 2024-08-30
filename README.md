@@ -1,5 +1,5 @@
 ## Hi, I'm Nhat 👋 
-I'm currently iOS developer at [Setel](https://www.setel.com). 
+I'm currently iOS developer. 
 
 I have passion for Swift. At the moment, I am living in Ho Chi Minh city.
 
